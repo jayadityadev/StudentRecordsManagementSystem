@@ -38,31 +38,31 @@ The Student Records Management System is a simple Python program that allows use
 
 `A sample 'student.txt' is provided in the repository with prefilled data. You can use the given text file, or else the program will itself create a new 'student.txt' if the same is not found in the working directory.`
 
-### Run the program
+#### Run the program
 
 ```bash
 python main.py
 ```
 
-### Adding New Student Records
+#### Adding New Student Records
 
 1. Run the program and select the "Input New Data" option.
 2. Enter the number of students you want to add.
 3. Fill in the details for each student (Name, Class, Section).
 4. The system will automatically generate an admission number.
 
-### Viewing Student Records
+#### Viewing Student Records
 
 1. Run the program and select the "Read Existing Data" option.
 2. Existing student records will be displayed in a tabular format.
 
-### Deleting Student Records
+#### Deleting Student Records
 
 1. Run the program and select the "Delete Old Data" option.
 2. Enter the name and admission number of the student you want to delete.
 3. Confirm the deletion when prompted.
 
-### Searching for Student Records
+#### Searching for Student Records
 
 1. Run the program and select the "Search Data" option.
 2. Choose the search method (by admission number or name and class).
