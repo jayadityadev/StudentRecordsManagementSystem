@@ -7,7 +7,7 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Acknowledgment](#acknowledgment)
+- [Acknowledgement](#acknowledgement)
 
 ## Overview
 
