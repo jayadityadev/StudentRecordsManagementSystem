@@ -38,9 +38,3 @@ Michael Hernandez,11,B,0037
 Michelle Davis,9,C,0038
 Edward Smith,12,A,0039
 Margaret Lee,9,C,0040
-Jayaditya Dev,10,A,0043
-Shristy Shreya,10,B,0044
-A,A,A,0045
-,,,0046
-,,,0047
-,,,0048
